@@ -17,10 +17,10 @@
 #   |- d --- g
 
 
-from __future__ import print_function
-import random
-import string
-from optparse import OptionParser
+# from __future__ import print_function
+# import random
+# import string
+# from optparse import OptionParser
 
 #
 # to make Python2 and Python3 act the same -- how dumb
